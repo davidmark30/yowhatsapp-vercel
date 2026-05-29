@@ -1,0 +1,23 @@
+# Tech Insights
+
+> Technology and software comparison articles.
+
+## Articles
+
+- /whatsapp-vs-google-chat/
+
+## Sitemap
+
+https://tech-insightss.vercel.app/sitemap.xml
+
+## Language
+
+en
+
+## Publisher
+
+Tech Insights
+
+## License
+
+Public Web Content
